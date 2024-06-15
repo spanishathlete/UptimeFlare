@@ -1,11 +1,12 @@
 const pageConfig = {
   // Title for your status page
-  title: "lyc8503's Status Page",
+  title: "UptimeFlare",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://github.com/lyc8503', label: 'GitHub' },
-    { link: 'https://blog.lyc8503.site/', label: 'Blog' },
-    { link: 'mailto:me@lyc8503.site', label: 'Email Me', highlight: true },
+    { link: 'https://nextchat.iabc.site', label: 'Vercel - NextChat' },
+    { link: 'https://yesplaymusic.iabc.site', label: 'Vercel - YesPlayMusic' },
+    { link: 'https://yes-play-music.iabc.site', label: 'CloudFlare - YesPlayMusic' },
+    { link: '987654321@qq.com', label: 'Email Me', highlight: true },
   ],
 }
 
